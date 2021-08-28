@@ -8,8 +8,6 @@ Analytical Dashboard which is generated from [US Superstore data ](https://www.k
 
 
 - A region that accounts for a greater number of orders
-
-<!--   ![dashboard-1](Screen-Shot-d1.png) -->
 - Frequency distribution of quantity ordered  
 - Percentage sales by different product categories 
 - Profitable products or their sub-products in the last few years 
