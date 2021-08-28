@@ -9,7 +9,7 @@ Analytical Dashboard which is generated from [US Superstore data ](https://www.k
 
 - A region that accounts for a greater number of orders
 
-  ![dashboard-1](Screen-Shot-d1.png)
+<!--   ![dashboard-1](Screen-Shot-d1.png) -->
 - Frequency distribution of quantity ordered  
 - Percentage sales by different product categories 
 - Profitable products or their sub-products in the last few years 
@@ -18,5 +18,8 @@ Analytical Dashboard which is generated from [US Superstore data ](https://www.k
 - Yearly sales for various states
 - Forecasting future sales according to shipping date.
 - The trend in profit/sales over time (years/months/quarters).
+
+# Technical Architecture
+![Technical-Architecture](Technical-Architecture.png)
 
 
