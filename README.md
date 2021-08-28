@@ -6,7 +6,9 @@ The object of this challenge is to develop an Analytical Dashboard where the own
 Analytical Dashboard which is generated from [US Superstore data ](https://www.kaggle.com/juhi1994/superstore-analysis) contains the following statistics.
 
 
-- A region that accounts for a greater number of orders  
+- A region that accounts for a greater number of orders
+
+  ![dashboard-1](Screen-Shot-d1.png)
 - Frequency distribution of quantity ordered  
 - Percentage sales by different product categories 
 - Profitable products or their sub-products in the last few years 
