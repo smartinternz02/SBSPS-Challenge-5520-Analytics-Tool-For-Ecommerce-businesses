@@ -20,4 +20,6 @@ Analytical Dashboard which is generated from [US Superstore data ](https://www.k
 # Technical Architecture
 ![Technical-Architecture](Technical-Architecture.png)
 
+Link to IBM Cognos Analytics [Dashboard](https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FDASHBOARD&action=view&mode=dashboard&subView=model0000017b9c8c7157_00000001)
+
 
