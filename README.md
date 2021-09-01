@@ -16,6 +16,7 @@ Analytical Dashboard which is generated from [US Superstore data ](https://www.k
 - Yearly sales for various states
 - Forecasting future sales according to shipping date.
 - The trend in profit/sales over time (years/months/quarters).
+  ![Dashboard](Dashboard.png)
 
 # Technical Architecture
 ![Technical-Architecture](Technical-Architecture.png)
